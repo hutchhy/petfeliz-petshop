@@ -55,8 +55,7 @@ petfeliz-petshop/
 
 ## 🌐 Acesso ao Site
 
-🔗 **GitHub Pages:** [https://SEU_USUARIO.github.io/petfeliz-petshop](https://SEU_USUARIO.github.io/petfeliz-petshop)
-
+🔗 **GitHub Pages:** [https://hutchhy.github.io/petfeliz-petshop]
 ---
 
 ## ⚙️ Tecnologias Utilizadas
